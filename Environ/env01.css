@@ -1,0 +1,13 @@
+BODY{background-image: "#brn";
+background-color: black; }
+p1, p2, p3, p4, p5{
+    color:white;
+    font-family:monospace;
+    font-size:50px;
+    background-color: red;
+    width: 60px; padding: 20;
+}
+.center{display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;}

@@ -1,0 +1,23 @@
+.test-div{
+    background: orange;
+    padding: 20px;
+    margin: 20px;
+}
+p{background: white;}
+.test-div.special{background: pink;}
+.test-div h2{
+    color:rgb(138, 238, 7);
+}
+.test-div:hover{
+    background: rgb(136, 48, 8);
+}
+h1, h2, h3, h4{text-decoration: underline;}
+#AllStar.my-flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+#AllStar DIV{width: 400px;}
+#Somebody.my-flex{
+    display: flex;
+    flex-direction: column;
+}
