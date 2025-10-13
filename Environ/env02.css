@@ -1,5 +1,7 @@
-BODY{background-image: "#brn";
-background-color: black; }
+BODY{background-image: url("/Art101-New/Images/xbrain.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover; }
 p1, p2, p3, p4, p5{
     color:white;
     font-family:monospace;
