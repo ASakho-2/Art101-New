@@ -6,7 +6,7 @@ var colors = ["Orchid", "Coral", "HotPink", "Plum"];
 
 $("#needy-button").click(function () {
 
-    if ( count < 5) { mood = "gresh and happy" ; }
+    if ( count < 5) { mood = "fresh and happy" ; }
     else if ( (count >=5) && (count <10 )) { mood="keep pushing"; }
     else { mood = "so tired" ; }
 
@@ -15,7 +15,7 @@ $("#needy-button").click(function () {
     $("body").css("background-color", colors[colorCount]);
 
     if ( colors[colorCount] == "Orchid" ) {
-        $("body").append("<img width=50 src='eye.png'>");
+        $("body").append("<img width=50 src='../Art101-New/Images/bucket-cat.png'>");
 }
 
 
