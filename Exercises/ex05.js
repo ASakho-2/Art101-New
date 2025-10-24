@@ -15,7 +15,7 @@ $("#needy-button").click(function () {
     $("body").css("background-color", colors[colorCount]);
 
     if ( colors[colorCount] == "Orchid" ) {
-        $("body").append("<img width=50 src='../Art101-New/Images/bucket-cat.png'>");
+        $("body").append("<img width=50 src='../Images/bucket-cat.png'>");
 }
 
 
