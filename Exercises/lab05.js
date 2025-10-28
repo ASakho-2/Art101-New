@@ -9,5 +9,5 @@ else {
 }
 }
 $("#good-button").click(function () {
-    askNumber(5);
+    askNumber(62);
 });
