@@ -20,7 +20,7 @@ cLickR = cLickR + 1;
 $(".morse").html(creAte[cLickR]);
 });
 function changeBackground(iName){
-    $("body").css("background-image","url('../Art101-New/Images/"+ iName+".gif')");
+    $("body").css("background-image","url('../Images/"+ iName+".gif')");
 }
 $(".bp").click(function(){
     stationary = stationary + 1;
