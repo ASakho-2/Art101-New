@@ -1,0 +1,31 @@
+BODY{background-image: url("/Images/xbrain.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;}
+#output{
+    color:white;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 30px;
+    background-color: red;
+}
+#sd.my-flex{
+    display: flex;
+    flex-direction:row;
+}
+
+.center{display: block;
+margin-left: auto;
+margin-right: auto;
+width: 15%;}
+.bp{width: 370px;
+height: 90px;
+font-size: 25px;}
+#real{
+    position: relative;
+    left: 87%;
+    width: 250px;
+}
+#skel{
+    position: relative;
+    width: 250px;
+}
